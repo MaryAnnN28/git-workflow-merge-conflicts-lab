@@ -1240,8 +1240,8 @@ h3#comments {
 }
 
 .pro-title h4 {
-    display: block float:left;
-    width: 295px;
+    display: block float;left:
+    width; 295px;
     background: url(images/design-repeat.gif) right center repeat-x;
 }
 
